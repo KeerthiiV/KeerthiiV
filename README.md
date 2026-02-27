@@ -3,7 +3,6 @@
 ### 🚀 Python Full Stack Developer | AI & ML Enthusiast
 I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Intern**. I enjoy bridging the gap between intelligent machine learning models and scalable web applications.
 
----
 
 ### 💫 About Me
 - 🎓 **MCA Graduate**.
@@ -53,7 +52,6 @@ I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Int
 ---
 
 ### 🤝 Connect with me
-![Visitor Count](https://komarev.com/ghpvc/?username=KeerthiiV&color=blueviolet)
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/v-keerthi-518a00249/))
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/v-keerthi-518a00249/))
 [![](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:keerthiminoos@gmail.com)
