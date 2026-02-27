@@ -34,7 +34,7 @@ I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Int
 
 ### 🔥 Featured Projects
 
-#### 🤖 [Shakespearean Text Gen]()
+#### 🤖 [Shakespearean Text Gen](https://github.com/KeerthiiV/Shakespeare-Text-Gen)
 
 - **The Logic:** Built a **Bidirectional LSTM** model to predict and generate text in the unique linguistic style of William Shakespeare.
 - **Model:** Bidirectional LSTM (512 units)
