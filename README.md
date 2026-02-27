@@ -34,7 +34,7 @@ I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Int
 
 ### 🔥 Featured Projects
 
-#### 🤖 [Shakespearean Text Gen]
+#### 🤖 [Shakespearean Text Gen]()
 
 - **The Logic:** Built a **Bidirectional LSTM** model to predict and generate text in the unique linguistic style of William Shakespeare.
 - **Model:** Bidirectional LSTM (512 units)
@@ -51,7 +51,18 @@ I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Int
 
 ---
 
-### 🤝 Connect with me
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/v-keerthi-518a00249/))
-[![](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:keerthiminoos@gmail.com)
+### 🤝 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/v-keerthi-518a00249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:keerthiminoos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
+---
