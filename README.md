@@ -1,16 +1,13 @@
-# 👋 Hi, I'm Keerthi | Python Full Stack Developer
+# Hi, I'm Keerthi 
 
-<p align="left">
- <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keerthi" height="30" width="40" /></a>
-</p>
 
 ---
 
 ### 💫 About Me
-- 🎓 **MCA Graduate** (APJ Abdul Kalam Technological University).
+- 🎓 **MCA Graduate**.
 - 🚀 Currently working as a **Python Full Stack Intern**.
 - 🧠 Deeply interested in **NLP** and **Generative AI**.
-- ⚡ Fun fact: I built a Shakespearean bot that writes poetry using Bidirectional LSTMs!
+
 
 ---
 
