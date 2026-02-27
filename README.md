@@ -1,52 +1,55 @@
-# Hi there, I'm Keerthi! 👋
+# 👋 Hi, I'm Keerthi | Python Full Stack Developer
 
-### 🚀 Python Full Stack Developer | AI & ML Enthusiast
-I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Intern**. I enjoy bridging the gap between intelligent machine learning models and scalable web applications.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Backend**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Data Science & Tools**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+ <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keerthi" height="30" width="40" /></a>
+</p>
 
 ---
 
-### 🌟 Featured Self-Made Projects
-
-#### 📰 [Fake News Detection](https://github.com/KeerthiiV/Fake-news-Detection)
-* **Tech:** Python, Scikit-Learn, TF-IDF Vectorization.
-* **The Logic:** A machine learning classifier that distinguishes between real and fake news articles with high accuracy using NLP techniques.
-
-#### ✍️ [Shakespearean Text Generation](https://github.com/KeerthiiV/Text-Generation)
-* **Tech:** Python, TensorFlow, Keras.
-* **The Logic:** Built a **Bidirectional LSTM** model to predict and generate text in the unique linguistic style of William Shakespeare.
+### 💫 About Me
+- 🎓 **MCA Graduate** (APJ Abdul Kalam Technological University).
+- 🚀 Currently working as a **Python Full Stack Intern**.
+- 🧠 Deeply interested in **NLP** and **Generative AI**.
+- ⚡ Fun fact: I built a Shakespearean bot that writes poetry using Bidirectional LSTMs!
 
 ---
 
-### 📈 Current Focus
-* 🔭 **Internship:** Developing full-stack applications using the Python/Django ecosystem.
-* 🌱 **Learning:** Advanced React.js and FastAPI for high-performance web services.
-* 🎯 **Goal:** To build AI-powered web applications that solve real-world problems.
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [https://www.linkedin.com/in/v-keerthi-518a00249/]
-* **Email:** [keerthiminoos@gmail.com]
+### 📊 My Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeerthiiV&show_icons=true&theme=radical" alt="KeerthiiV's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiiV&layout=compact&theme=radical" alt="Top Langs" width="300" />
+</p>
 
 ---
-*“Coding is the closest thing we have to magic.”*
+
+### 🔥 Featured Projects
+
+#### 🤖 [Shakespearean Text Gen](https://github.com/KeerthiiV/Text-Generation)
+> An AI model that mimics the Bard's style.
+- **Model:** Bidirectional LSTM (512 units)
+- **Framework:** TensorFlow/Keras
+- **Focus:** Sequential Pattern Recognition
+
+#### 🛡️ [Fake News Detection](https://github.com/KeerthiiV/Fake-news-Detection)
+> Combatting misinformation with Machine Learning.
+- **Method:** TF-IDF Vectorization + Logistic Regression
+- **Impact:** High-accuracy classification of news reliability.
+
+---
+
+### 🤝 Connect with me
+![Visitor Count](https://komarev.com/ghpvc/?username=KeerthiiV&color=blueviolet)
+
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/v-keerthi-518a00249/))
+[![](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:keerthiminoos@gmail.com)
