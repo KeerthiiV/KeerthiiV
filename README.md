@@ -1,5 +1,7 @@
-# Hi, I'm Keerthi 
+# Hi there, I'm Keerthi! 👋
 
+### 🚀 Python Full Stack Developer | AI & ML Enthusiast
+I am an **MCA Graduate** currently honing my skills as a **Python Full Stack Intern**. I enjoy bridging the gap between intelligent machine learning models and scalable web applications.
 
 ---
 
@@ -11,37 +13,42 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+**Languages & Backend**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
----
+**Frontend & Design**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📊 My Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeerthiiV&show_icons=true&theme=radical" alt="KeerthiiV's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiiV&layout=compact&theme=radical" alt="Top Langs" width="300" />
-</p>
+**Data Science & Tools**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🔥 Featured Projects
 
-#### 🤖 [Shakespearean Text Gen](https://github.com/KeerthiiV/Text-Generation)
-> An AI model that mimics the Bard's style.
+#### 🤖 [Shakespearean Text Gen]
+
+- **The Logic:** Built a **Bidirectional LSTM** model to predict and generate text in the unique linguistic style of William Shakespeare.
 - **Model:** Bidirectional LSTM (512 units)
 - **Framework:** TensorFlow/Keras
 - **Focus:** Sequential Pattern Recognition
+- 
 
 #### 🛡️ [Fake News Detection](https://github.com/KeerthiiV/Fake-news-Detection)
-> Combatting misinformation with Machine Learning.
+
+- **The Logic:** A machine learning classifier that distinguishes between real and fake news articles with high accuracy using NLP techniques.
 - **Method:** TF-IDF Vectorization + Logistic Regression
 - **Impact:** High-accuracy classification of news reliability.
+
 
 ---
 
